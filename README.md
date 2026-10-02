@@ -9,10 +9,10 @@
 
 | Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma | Imagem Comprobatória |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | App de Fotos de Gatos - passos 1 a 10 | Criei a estrutura básica da página com título e texto | Aprovado | [Ver Imagem](./prints/print_01.png) |
-| 02 | App de Fotos de Gatos - passos 11 a 20 | Adicionei imagens e links na página | Aprovado | [Ver Imagem](./prints/print_02.png) |
-| 03 | App de Fotos de Gatos - passos 21 a 30 | Adicionei um formulário e finalizei a página | Aprovado | [Ver Imagem](./prints/print_03.png) |
-| 04 | App de Fotos de Gatos - passos 31 a 41 | Finalizei a página seguindo suas diretrizes, adicionei um rodapé. | Aprovado | [Ver Imagem](./prints/print_04.png) |
+| 01 | App de Fotos de Gatos - passos 1 a 10 | Criei a estrutura básica da página com título e texto | Aprovado | [Ver Imagem](./print_01.png) |
+| 02 | App de Fotos de Gatos - passos 11 a 20 | Adicionei imagens e links na página | Aprovado | [Ver Imagem](./print_02.png) |
+| 03 | App de Fotos de Gatos - passos 21 a 30 | Adicionei um formulário e finalizei a página | Aprovado | [Ver Imagem](./print_03.png) |
+| 04 | App de Fotos de Gatos - passos 31 a 41 | Finalizei a página seguindo suas diretrizes, adicionei um rodapé. | Aprovado | [Ver Imagem](./print_04.png) |
 
 ---
 
